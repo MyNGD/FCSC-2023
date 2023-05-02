@@ -11,11 +11,10 @@ Vous pouvez retrouver cet algorithme [ici](https://www.geeksforgeeks.org/quick-s
 
 Après lecture de différents articles et après avoir compris le fonctionnement de l’algorithme. On crée un programme python qui implémente cet algorithme pour trier notre tableau.
 Les étapes de résolutions sont donc:
-<ul>
-<li>Récupération du tableau non trié</li>
-<li>Utilisation de l’algorithme QuickSort pour trier le tableau</li>
-<li>Envoi du tableau trié au serveur.</li>
-</ul>
+
+* Récupération du tableau non trié</li>
+* Utilisation de l’algorithme QuickSort pour trier le tableau</li>
+* Envoi du tableau trié au serveur.</li>
 
 Le script de résolution du challenge est le fichier ***solve.py***.
 
