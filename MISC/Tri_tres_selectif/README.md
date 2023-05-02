@@ -21,4 +21,4 @@ Le script de résolution du challenge est le fichier ***solve.py***.
 On exécute ensuite le script et on récupère le flag.
 
 
-**FCSC{6d275607ccfba86daddaa2df6115af5f5623f1f8f2dbb62606e543fc3244e33a}
+**FCSC{6d275607ccfba86daddaa2df6115af5f5623f1f8f2dbb62606e543fc3244e33a}**
