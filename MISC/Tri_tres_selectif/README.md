@@ -1,9 +1,9 @@
 
-###Introduction
+**Introduction**
 
 Ce challenge est un challenge d’algorithmie de la catégorie MISC. L’objectif de ce challenge est de trier un tableau dans l’ordre croissant avec un nombre limité de permutation.
 
-###Résolution
+**Résolution**
 
 Pour résoudre ce challenge, il faut trouver une méthode permettant de trier un tableau en effectuant le moins de mouvement possible.
 Après quelque recherches sur internet, on tombe sur l’algorithme de tri rapide (QuickSort) qui le permet.
